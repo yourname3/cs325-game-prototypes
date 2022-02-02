@@ -10,7 +10,7 @@
 		color: #444;
 		font-family: "Segoe UI", "Avenir", Verdana, sans-serif;
 		
-		margin-left: 3em;
+		margin-left: 2%;
 	}
 	#readme
 	{
